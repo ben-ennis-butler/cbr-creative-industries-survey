@@ -13,6 +13,10 @@ body,
     font-weight: 300;
     font-size: 0.9em;
 }
+.page__hero--overlay .page__lead {
+    white-space: nowrap;
+    margin-bottom: 0;
+}
 h1 {
     font-weight: 800;
 }
@@ -33,5 +37,9 @@ a {
     text-decoration: none;
 }
 footer p {
-    margin: 1.5em 0;
+    margin: 2em 0;
+    font-size: 0.6875em;
+}
+footer img {
+    width: 28em;
 }

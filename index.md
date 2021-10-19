@@ -7,9 +7,9 @@ author_profile: false
 excerpt: "ACT Creative Industries Economic, Environmental and Policy Assessment"
 header:
     overlay_color: "#333"
-    actions:
-        - label: "Complete Survey"
-          url: "#"
+    # actions:
+    #     - label: "Complete Survey"
+    #       url: "#"
 ---
 
-The ACT Creative Industries Economic, Environmental and Policy Assessment will identify the current state, scope and potential of the creative industries in the ACT, including the benefits, challenges and opportunities for future growth of these industries.
+The _ACT Creative Industries Economic, Environmental and Policy Assessment_ will identify the current state, scope and potential of the creative industries in the ACT, including the benefits, challenges and opportunities for future growth of these industries.

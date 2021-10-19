@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: false
-excerpt: "Some text here..."
+excerpt: "ACT Creative Industries Economic, Environmental and Policy Assessment"
 header:
     overlay_color: "#333"
     actions:
@@ -12,4 +12,4 @@ header:
           url: "#"
 ---
 
-<p>Home page content will be here...</p>
+The ACT Creative Industries Economic, Environmental and Policy Assessment will identify the current state, scope and potential of the creative industries in the ACT, including the benefits, challenges and opportunities for future growth of these industries.

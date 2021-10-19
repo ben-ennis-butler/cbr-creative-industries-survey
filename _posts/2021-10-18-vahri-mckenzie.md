@@ -1,5 +1,5 @@
 ---
-title: "Chief Investigator Professor Jason Bainbridge"
+title: "Dr Vahri McKenzie"
 last_modified_at: 2021-10-18
 categories:
     - Researcher

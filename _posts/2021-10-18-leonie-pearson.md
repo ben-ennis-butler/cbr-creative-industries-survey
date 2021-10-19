@@ -1,5 +1,5 @@
 ---
-title: "Chief Investigator Professor Jason Bainbridge"
+title: "Professor Leonie Pearson"
 last_modified_at: 2021-10-18
 categories:
     - Researcher

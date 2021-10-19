@@ -8,11 +8,11 @@ In this study the term ‘creative industries’ includes those industries that 
 
 The table below (adapted from the [United Nations’ framework for cultural domains](https://unstats.un.org/unsd/statcom/doc10/BG-FCS-E.pdf)) provides an indicative, rather than comprehensive, guide to the creative industries included in this study.
 
-**TABLE/IMAGE here**
+![Classifications table](/assets/images/category-table.png)
 
 Along with a comprehensive assessment of the ACT creative industries, this project will produce an interactive map with future multimodal potential.
 
-The _ACT Creative Industries Economic, Environmental and Policy Assessment_ is an ACT Government and University of Canberra partnership.
+The _ACT Creative Industries: Economic, Environmental and Policy Assessment_ is an ACT Government and University of Canberra partnership.
 
 It draws on the expertise of academics across four University of Canberra Research Centres.
 

@@ -4,7 +4,7 @@ title: "Researcher Profiles"
 # layout: categories
 ---
 
-The _ACT Creative Industries Economic, Environmental and Policy Assessment_ draws on the expertise of academics across four University of Canberra Research Centres.
+The _ACT Creative Industries: Economic, Environmental and Policy Assessment_ draws on the expertise of academics across four University of Canberra Research Centres.
 
 -   [Chief Investigator Professor Jason Bainbridge](https://researchprofiles.canberra.edu.au/en/persons/jason-bainbridge){:target="\_blank"}
 -   [Distinguished Professor Jen Webb](https://researchprofiles.canberra.edu.au/en/persons/jen-webb){:target="\_blank"}
